@@ -25,7 +25,10 @@ Pooleli oleva treeninggraafiku taastamiseks ava rakendus ja vajuta nupule 'Taast
 Kava läbimist visualiseerib progressiriba, mis initsierub, kui esimene trenn märgitakse läbituks.
 
 
-
 # Küsimused?
 
 Kui on küsimusi, kirjuta Annale. Aitäh!
+
+# Aga klassid?
+
+Rakenduse Java klassid asuvad vastavas harus (Java-classes).
