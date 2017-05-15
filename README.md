@@ -11,7 +11,7 @@ Loodud aine 'Objektorienteeritud programmeerimine' jaoks kevadel 2017.
 
 # Kasutamine
 
-Rakenduse kasutamiseks tuleb alla laadida fail 'ZeroToFive.jar'. Kasutamiseks peab arvutisse olema paigaldatud Java, soovitavalt Java versioon 8.
+Rakenduse kasutamiseks tuleb alla laadida fail 'ZeroToFive.jar'. Kasutamiseks peab arvutisse olema paigaldatud Java, soovitavalt Java versioon 8. Täisminimalistliku kujunduse osaks on ka Roboto font, mida saab hankida siit - https://www.fontsquirrel.com/fonts/roboto.
 
 Esmase jooksugraafiku loomiseks tuleb täita küsiavad väljad järgmiselt:
  - vabade nädalapäevade väljade lisada nädalapäevade nimed (täisnimi, lühend või kuupäevad), eraldades päevad komadega
